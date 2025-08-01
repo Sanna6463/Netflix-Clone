@@ -20,4 +20,3 @@ This is a simple and responsive **Netflix Clone** built using pure **HTML**, **C
 - 📱 Fully responsive layout  
 - 💻 Clean and minimal UI  
 - ⚡ Lightweight and fast performance
-
